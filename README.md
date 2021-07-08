@@ -136,6 +136,7 @@ a.p:hover span {
 	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jbEPwL7cnR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
+<br><br><p>50_Free, 24秒台連発！</p>	
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wbSbAY49JY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	
 <br><br><p>50_Bre, 4コースゆなちゃん！</p>
