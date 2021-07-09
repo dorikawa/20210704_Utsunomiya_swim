@@ -172,7 +172,7 @@ a.p:hover span {
 <br><br><p>おまけ、背景原画</p>
 <a href="20210704_002.JPG" data-lightbox="abc"><img src="20210704_002.JPG" alt="サンプル画像" width="560" /></a>
 <br><br><p>おまけ、豆知識</p>	
-<a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a>
+<h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
 	
 
 
