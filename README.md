@@ -175,6 +175,10 @@ a.p:hover span {
 <h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
 <br><br><p>おまけ、2019年市民大会反省会、暑気払い飲み会</p>	
 <h2><a href="https://peyng.github.io/dream/" target="_blank" rel="noopener noreferrer">反省会の終盤にお隣の火事で追い出された、いわく付きの記録。</a></h2>
+	
+<br><br><br><p>さらにおまけ、瀧田先生の「森のくるまやさん」</p>	
+<h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。</a></h2>
+
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
