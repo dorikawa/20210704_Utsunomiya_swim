@@ -173,7 +173,8 @@ a.p:hover span {
 <a href="20210704_002.JPG" data-lightbox="abc"><img src="20210704_002.JPG" alt="サンプル画像" width="560" /></a>
 <br><br><p>おまけ、豆知識、IT関連情報</p>	
 <h2><a href="https://dorikawa.github.io/HP_build/" target="_blank" rel="noopener noreferrer">QRコードの作り方などIT関連情報へのリンクが新規タブで開きます。</a></h2>
-	
+<br><br><p>おまけ、2019年暑気払い反省会</p>	
+<h2><a href="https://peyng.github.io/dream/" target="_blank" rel="noopener noreferrer">反省会の終盤にお隣の火事で追い出された曰く付きの記録。</a></h2>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
