@@ -71,7 +71,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://github.com/dorikawa/20210704_Utsunomiya_swim/blob/main/20210704_001.JPG) center/cover no-repeat; 
+  background:url(https://github.com/dorikawa/20210704_Utsunomiya_swim/20210704_001.JPG) center/cover no-repeat; 
   -webkit-background-size:cover;/*Android4*/
   }
   
