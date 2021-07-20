@@ -182,6 +182,9 @@ a.p:hover span {
 <br><br><br><p>さらにおまけ、Lassen展示会パンフ</p>	
 <h2><a href="https://dorikawa.github.io/Lassen/" target="_blank" rel="noopener noreferrer">2021/07/08~12展示会＠マロニエプラザ。</a></h2>
 	
+<br><br><br><p>さらにおまけ、100mバタフライ世界記録保持者、ケレブ・ドレセル選手の秘密をNHKが紐解きました。</p>		
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dm3XfD3J7nc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
