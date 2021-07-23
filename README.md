@@ -180,11 +180,11 @@ a.p:hover span {
 <h2><a href="https://tsunakawa-konpou.com/archives/391" target="_blank" rel="noopener noreferrer">手作り感満載のクルマの木製模型、￥300です。</a></h2>
 
 <br><br><br><p>さらにおまけ、Lassen展示会パンフ</p>	
-<h2><a href="https://dorikawa.github.io/Lassen/" target="_blank" rel="noopener noreferrer">2021/07/08~12展示会＠マロニエプラザ。</a></h2>
+<h2><a href="https://dorikawa.github.io/Lassen/" target="_blank" rel="noopener noreferrer">2021/07/08~12 Lassen展示会＠マロニエプラザ。</a></h2>
 	
 
 <br><br><br><p>さらにおまけ、Lassenと同時開催されたDISNEY展示会パンフ</p>	
-<h2><a href="https://dorikawa.github.io/disney/" target="_blank" rel="noopener noreferrer">2021/07/08~12展示会＠マロニエプラザ。</a></h2>	
+<h2><a href="https://dorikawa.github.io/disney/" target="_blank" rel="noopener noreferrer">2021/07/08~12 DISNEY展示会＠マロニエプラザ。</a></h2>	
 
 	
 <br><br><br><p>さらにおまけ、100mバタフライ世界記録保持者、<br>ケレブ・ドレセル選手の秘密をNHKが紐解きました。</p>		
